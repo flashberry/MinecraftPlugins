@@ -1,0 +1,9 @@
+name: ChatRadius
+version: 1.0.0
+author: flashberry
+description: Make chat only appear within a certian radius.
+main: me.flashberry.chatradius.ChatRadius
+
+commands:
+  say:
+    description: Say radius is 15 blocks.
